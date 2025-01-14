@@ -12,6 +12,13 @@ This repository focuses on diabetes prediction using health indicator datasets. 
 - Generated a cleaned and preprocessed dataset ready for use in ML models.
 - This script is a foundational step for building ML workflows in the data science project.
 
+## Running Code from Google Colab in Jupyter Lab
+I initially developed the code in Google Colab. Now, I am running the file in Jupyter Lab. To achieve this, I converted the Jupyter Notebook (.ipynb) file to a Python script using the following command in the terminal:
+jupyter nbconvert --to script Python_code_part_I.ipynb
+
+To execute the Python script, use the command below in the terminal:
+python Python_code_part_I.py
+
 ## Uploaded output files from Part I: Data Cleaning and Binary Classification
 
 - Includes cleaned and preprocessed datasets:
