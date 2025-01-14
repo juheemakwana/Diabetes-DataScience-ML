@@ -6,6 +6,20 @@ This repository focuses on diabetes prediction using health indicator datasets. 
   - File: `data/2015.csv`
   - Description: Contains behavioral risk factor data from the 2015 CDC survey.
 
+## Added Python code for Part I: Data Cleaning and Binary Classification
+- Included data preprocessing steps to clean and prepare the dataset.
+- Implemented binary classification logic for the target variable.
+- Generated a cleaned and preprocessed dataset ready for use in ML models.
+- This script is a foundational step for building ML workflows in the data science project.
+
+## Uploaded output files from Part I: Data Cleaning and Binary Classification
+
+- Includes cleaned and preprocessed datasets:
+  - Diabetes Full dataset (BRFSS 2015 health indicators)
+  - Diabetes Binary classification dataset
+  - Balanced binary classification dataset (50-50 split)
+- Files are ready for use in ML model development.
+
 # Key Steps and Features:
 PART-I
 ## Data Cleaning:
