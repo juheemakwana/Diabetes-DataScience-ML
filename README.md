@@ -1,6 +1,11 @@
 # Diabetes-DataScience-ML
 This repository focuses on diabetes prediction using health indicator datasets. It includes data preprocessing, EDA, feature selection, handling imbalanced data, and building ML models like Logistic Regression, Decision Trees, KNN, and Random Forest, with techniques like SMOTE and ANOVA for feature optimization.
 
+## Datasets
+- **2015 Behavioral Risk Factor Dataset**: [Source - Kaggle](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system?select=2015.csv)
+  - File: `data/2015.csv`
+  - Description: Contains behavioral risk factor data from the 2015 CDC survey.
+
 # Key Steps and Features:
 PART-I
 ## Data Cleaning:
