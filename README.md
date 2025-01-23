@@ -1,5 +1,5 @@
 # Diabetes-DataScience-ML
-This repository focuses on diabetes prediction using health indicator datasets. It includes data preprocessing, EDA, feature selection, handling imbalanced data, and building ML models like Logistic Regression, Decision Trees, KNN, and Random Forest, with techniques like SMOTE and ANOVA for feature optimization.
+This repository focuses on diabetes prediction using health indicator datasets. It includes data preprocessing, EDA, feature selection, handling imbalanced data, and building ML models like Logistic Regression, Decision Trees, KNN, and Random Forest, with techniques like SMOTE and ANOVA for feature optimization and predictive accuracy.
 
 ## Datasets
 - **2015 Behavioral Risk Factor Dataset**: [Source - Kaggle](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system?select=2015.csv)
@@ -47,6 +47,7 @@ Variance Inflation Factor (VIF) analysis for multicollinearity.
 ANOVA for feature importance and selection.
 Identifying the best features for predictive modeling.
 
+# Machine Learning Model Development
 ## Data Splitting and Imbalance Handling:
 
 Splitting data into training and testing sets.
